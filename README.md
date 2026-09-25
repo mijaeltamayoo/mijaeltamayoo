@@ -6,9 +6,10 @@
 ---
 
 ### Sobre mí
-- Me gusta el diseño de software y la estructuración de base de datos relacionales 
-- Estudiante de ingeniería en la Universidad de Deusto.
-- Resolver problemas complejos mediante programación orientada a objectos 
+- 🌐 Enfocado en el **desarrollo de aplicaciones web** y arquitecturas Full-Stack.
+- 📱 Creación y desarrollo de **aplicaciones móviles con Android Studio**.
+- ☕ Experiencia en backend y diseño de software mediante **Programación Orientada a Objetos** (Java, Php, C#)
+- 🗄️ Modelado y estructuración eficiente de **bases de datos relacionales** (MySQL, PostgreSQL, Oracle).
 
 ## Stack
 
@@ -22,5 +23,5 @@
 [![Database](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
 ### Herramientas & Entornos
-[![Tools](https://skillicons.dev/icons?i=git,github,idea,eclipse,vscode)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,idea,eclipse,vscode,androidstudio)](https://skillicons.dev)
  
